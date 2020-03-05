@@ -1,6 +1,6 @@
-# btcwebdemo2
+# btcwebdemo
 
-> A Vue.js project
+> Demo web page providing checking balance and transferring btc by using bitcoin-transaction lib.
 
 ## Build Setup
 
